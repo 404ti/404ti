@@ -22,7 +22,6 @@ Faço bots para Discord em Lua e crio algoritmos páginas em HTML5. Ainda aprend
 
 **Ferramentas:**  
 ![Código VS](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
