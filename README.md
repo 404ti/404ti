@@ -1,16 +1,46 @@
-## Hi there 👋
+Faço bots para Discord em Lua e crio algoritmos páginas em HTML5. Ainda aprendendo, mas já tendo projetos funcionais.
 
-<!--
-**404ti/404ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Olá, sou 404ti 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 O que eu faço
+- **Bots para Discord** usando a biblioteca Discordia (Lua)
+  - Comandos de moderação (chutar, banir, avisar, limpar)
+  - Sistema de cupons de desconto
+  - Logs de ações em um canal específico
+- **Página web** em HTML5, CSS e um pouco de JavaScript
+- Gosto de criar ferramentas úteis e aprender na prática
+
+---
+
+## 🛠️ Tecnologias que uso
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas:**  
+![Código VS](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+<dividir alinhar="centro">
+  <imagem alta="150em" fonte="https://github-readme-stats.vercel.app/api?username=404ti&maisrar_ícones=verdadeiro&tema=escuro&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
+  <imagem alta="150em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=404ti&layout=compacto&contagem_langs=6&tema=escuro"/>
+</dividir>
+
+---
+
+## 🤝 O que posso ajudar
+- Criar ou melhorar bots do Discord em Lua
+- Fazer páginas simples em HTML5/CSS
+- Trocar ideias e aprender junto com outros desenvolvedores
+
+---
+## 📫 Contato
+- 💬 Discórdia: [@404ti](https://discord.com/users/1488600864611373328) 
+
+Obrigado por visitar meu perfil! Se quiser trocar uma ideia, me chama 😊
