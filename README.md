@@ -36,7 +36,7 @@ Faço bots para Discord em Lua e crio algoritmos páginas em HTML5. Ainda aprend
 
 ## 🤝 O que posso ajudar
 - Criar ou melhorar bots do Discord em Lua
-- Fazer páginas simples em HTML5/CSS
+- Fazer sites em HTML5/CSS/JAVASCRIPT
 - Trocar ideias e aprender junto com outros desenvolvedores
 
 ---
