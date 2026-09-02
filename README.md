@@ -6,9 +6,8 @@ Faço bots para Discord em Lua e crio algoritmos páginas em HTML5. Ainda aprend
 
 ## 📌 O que eu faço
 - **Bots para Discord** usando a biblioteca Discordia (Lua)
-  - Comandos de moderação (chutar, banir, avisar, limpar)
+  - Comandos de moderação (kick, banir, avisar, limpar etc...)
   - Sistema de cupons de desconto
-  - Logs de ações em um canal específico
 - **Página web** em HTML5, CSS e um pouco de JavaScript
 - Gosto de criar ferramentas úteis e aprender na prática
 
